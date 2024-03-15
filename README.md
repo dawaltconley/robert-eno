@@ -18,7 +18,11 @@ dictionary. The only difference is that `eno-dictionary.txt` has no duplicate
 entries, while `eno-flashcards.txt` duplicates characters that appear in 
 multiple lessons.
 
-It's possible to import both so that you only have one flashcard per character.
+It's possible to import both so that you only have one flashcard per character. 
+If you don't have any flashcards or you don't mind overwriting current 
+flashcard definitions, you can import `eno-flashcards.txt` with "Store in user 
+dict" selected and "Duplicate entries" set to "Update + Merge." To avoid 
+overwriting current flashcards, do the following:
 
 1. First, import `eno-dictionary.txt` as a user dictionary (Settings > Manage 
    Dictionaries > Add User).
